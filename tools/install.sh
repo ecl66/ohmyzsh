@@ -40,7 +40,7 @@ REMOTE=${REMOTE:-https://github.com/${REPO}.git}
 BRANCH=${BRANCH:-master}
 
 # Other options
-CHSH=${CHSH:-yes}
+CHSH=${CHSH:-no}
 RUNZSH=${RUNZSH:-yes}
 KEEP_ZSHRC=${KEEP_ZSHRC:-no}
 
